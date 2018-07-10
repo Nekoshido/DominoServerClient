@@ -14,7 +14,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author joangasullroyes
+ * @author hector
  */
 public class ClientP1 {
     //Communicació

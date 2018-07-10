@@ -11,7 +11,7 @@ import java.net.*;
 
 /**
  *
- * @author joangasullroyes
+ * @author hector
  */
 public class Comunicacio{
     InetAddress maquinaServidora;

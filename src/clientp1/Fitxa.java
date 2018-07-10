@@ -8,7 +8,7 @@ package clientp1;
 
 /**
  *
- * @author joangasullroyes
+ * @author hector
  */
 public class Fitxa {
     private int num1;
