@@ -12,7 +12,7 @@ import java.util.ArrayList;
 
 /**
  *
- * @author hector i joan
+ * @author hector
  */
 public class Comunicacio{
     

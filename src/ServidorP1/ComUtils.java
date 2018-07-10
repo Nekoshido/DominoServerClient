@@ -12,7 +12,7 @@ import java.io.*;
 import java.util.Locale;
 /**
  *
- * @author joangasullroyes
+ * @author hector
  */
 public class ComUtils {
     /* Mida d'una cadena de caracters */

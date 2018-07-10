@@ -17,7 +17,7 @@ import java.util.logging.Logger;
 
 /**
  *
- * @author joangasullroyes
+ * @author hector
  */
 public class ServidorP1 {
     private static Scanner sc = new Scanner(System.in);

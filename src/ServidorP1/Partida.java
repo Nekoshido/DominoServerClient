@@ -12,7 +12,7 @@ import java.util.Iterator;
 
 /**
  *
- * @author joangasullroyes
+ * @author hector
  */
 public class Partida {
     private ArrayList<Fitxa> maClient;//Ma del client
